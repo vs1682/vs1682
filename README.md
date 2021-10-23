@@ -6,10 +6,9 @@ Now, I want to explore backend side and for that I have enrolled myself at San J
 - 🔭 I’m currently working on UberEats Prototype as a Lab for one of the course at university.
 - 🌱 I’m currently learning Distributed System, SpringBoot
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: <object>![https://github.com/vs1682](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://github.com/vs1682)</object> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalshinde1682/)
+- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vs1682) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalshinde1682/)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- My other work: [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5616999/vs1682) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vs1682)
 
 
 <!--
